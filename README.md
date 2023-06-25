@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+#### GitHub stats
+![An0401na's GitHub stats](https://github-readme-stats.vercel.app/api?username=An0401na&show_icons=true&theme=dark)
+---
+#### BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dksek3050)](https://solved.ac/dksek3050)
 <!--
 **An0401na/An0401na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
