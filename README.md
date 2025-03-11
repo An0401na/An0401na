@@ -75,8 +75,8 @@
 
 ### 📫 Contact
 
-- ✉️ **Email**: your.email@example.com
-- 💼 **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)
+- ✉️ **Email**: dksek3050@gmail.com
+<!-- 💼 **LinkedIn**: [your-profile](https://linkedin.com/in/your-profile)-->
 
 ---
 
