@@ -26,6 +26,7 @@ jobs:
         run: npm start
       - name: Commit README
         run: |
+          git pull
           git add .
           git config --local user.email "dksek3050@gmail.com"
           git config --local user.name "An0401na"
