@@ -81,11 +81,10 @@
 - ✍️ **[Tistory Blog](https://dksek3050.tistory.com/)**
 - ✍️ **[Velog Blog](https://velog.io/@dksek3050/posts)**
 
----
-
 ### 📑 Latest Blog Posts
 
 <ul><li><a href='https://dksek3050.tistory.com/141' target='_blank'>test</a></li><li><a href='https://dksek3050.tistory.com/139' target='_blank'>[React] 컴포넌트 속성에 컴포넌트 전달하기</a></li><li><a href='https://dksek3050.tistory.com/138' target='_blank'>[React] React 완벽 가이드 - 섹션 5: React로 투자 계산기 만들기 | 개발 회고</a></li><li><a href='https://dksek3050.tistory.com/137' target='_blank'>[React]스프레드 연산자를 통한 속성 전달 방식- id 전달</a></li><li><a href='https://dksek3050.tistory.com/136' target='_blank'>[React] 함수형 컴포넌트의 반환 return 값 조건 &amp; Fragment(프래그먼트) &lt;&gt;...&lt;/&gt;</a></li><li><a href='https://dksek3050.tistory.com/135' target='_blank'>[React] Element와 Componet의 차이</a></li><li><a href='https://dksek3050.tistory.com/134' target='_blank'>[React] React 완벽 가이드 - 섹션 3: 리액트의 핵심 - 컴포넌트, JSX, 속성, 상태 등</a></li><li><a href='https://dksek3050.tistory.com/132' target='_blank'>[React] React 완벽 가이드 - 섹션 1: 시작하기</a></li><li><a href='https://dksek3050.tistory.com/131' target='_blank'>[CI/CD] gitHub Action으로 CI/CD 구축하고 인간젠킨스 탈출하다! (feat. Self-hosted runner)</a></li><li><a href='https://dksek3050.tistory.com/130' target='_blank'>[Database-MySQL] Select 쿼리로 테이블 정의서 만들기 (sql to 정의서)</a></li></ul>
+    
 ---
 
 ### 📫 Contact
