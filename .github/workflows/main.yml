@@ -4,6 +4,11 @@ name: Readme Update
 
 # Controls when the workflow will run
 on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
   # 1시간에 한번씩 아래 스크립트를 실행한다.
   schedule:
     - cron: "* * * * *"
