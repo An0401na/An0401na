@@ -103,7 +103,7 @@ const parser = new Parser({
 (async () => {
 
     // 피드 목록
-    const feed = await parser.parseURL('https://devpad.tistory.com/rss'); // 본인의 블로그 주소
+    const feed = await parser.parseURL('https://dksek3050.tistory.com/rss'); // 본인의 블로그 주소
 
     text += `<ul>`;
 
