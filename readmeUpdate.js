@@ -88,8 +88,6 @@ let text = `
 - ✍️ **[Tistory Blog](https://dksek3050.tistory.com/)**
 - ✍️ **[Velog Blog](https://velog.io/@dksek3050/posts)**
 
----
-
 ### 📑 Latest Blog Posts
 
 `;
@@ -118,6 +116,7 @@ const parser = new Parser({
 
     text += `</ul>`;
     text += `
+    
 ---
 
 ### 📫 Contact
