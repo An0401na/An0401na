@@ -1,5 +1,3 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Readme Update
 
 on:
@@ -9,8 +7,8 @@ on:
     branches: [ main ]
   # 1시간에 한번씩 아래 스크립트를 실행한다.
   schedule:
-    - cron: "0 * */1 * *"
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+    - cron: "0 * */4 * *"
+
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -27,6 +25,11 @@ jobs:
       - name: Commit README
         run: |
           git pull
+          # 변경 사항이 없으면 스크립트 종료
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
           git add .
           git config --local user.email "dksek3050@gmail.com"
           git config --local user.name "An0401na"
